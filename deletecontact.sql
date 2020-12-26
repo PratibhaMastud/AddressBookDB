@@ -1,0 +1,1 @@
+delete from [dbo].[address_bookDB] where first_name = 'Prati'
